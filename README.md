@@ -16,7 +16,7 @@ Outside of school and work, I am an avid hiker, traveler, and film photographer.
 >
 >The image submitted is a 30-minute exposure of the stars and mountains surrounding Lake McDonald in Glacier National Park made with Fujifilm Pro400H film.
 
-Thank you for reading! Feel free to explore some of the projects I have worked on during my time at Carnegie Mellon!
+Thank you for reading! Feel free to explore my Github and check out some of the projects I have worked on during my time at Carnegie Mellon.
 
 <!---
 DanMolenhouse/DanMolenhouse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
