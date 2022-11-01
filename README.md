@@ -6,7 +6,7 @@ As the end of my time at CMU approaches, it can be confidently said that **the i
 
 After CMU, I hope to work with a team of experienced security professionals that can help me further hone my technical skills and grow into a expert in the security field. I would like to continue my education by getting certifications like the CompTIA Security+ and Network+, which would hopefully be an endevour that my future organization would support me in.
 
-Outside of school and work, I am an avid hiker, traveler, and film photographer. My landscape and travel film photography has been curated to the front page of the [popular photography app VSCO](https://vsco.co/danmolenhouse/gallery) over 50 times, sold over 40 copies of my photobook [Desert Daydream](https://www.magcloud.com/browse/issue/1772854) for charity, and won the FujiFilm *Why I Shoot Film Contest* in 2021 with the following image and caption:
+Outside of school and work, I am an avid hiker, traveler, and film photographer. My landscape and travel film photography has been curated to the front page of the [popular photography app VSCO](https://vsco.co/danmolenhouse/gallery) over 50 times, sold for charity in my photobook [Desert Daydream](https://www.magcloud.com/browse/issue/1772854), and won the FujiFilm *Why I Shoot Film Contest* in 2021 with the following image and caption:
 
 ![Yellowstone_1_026-3](https://user-images.githubusercontent.com/114946651/199166270-925fd1a8-6ec8-4c33-8220-da537800f3ed.jpg)
 
